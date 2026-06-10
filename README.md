@@ -47,6 +47,12 @@ The pipeline works in four steps:
 <img width="2161" height="810" alt="Confusion matrices" src="https://github.com/user-attachments/assets/0efbd7cc-05b9-450c-bb16-16b580ca33e1" />
 
 ---
+## Results
+<img width="511" height="686" alt="image" src="https://github.com/user-attachments/assets/819a042c-3f50-4d75-847c-69cad7f83a5f" />
+
+## Error analysis
+<img width="679" height="323" alt="image" src="https://github.com/user-attachments/assets/e03d046b-7659-40f5-85c6-450d225632d1" />
+
 
 ## Reflections
 
