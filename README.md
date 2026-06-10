@@ -52,6 +52,7 @@ The pipeline works in four steps:
 
 ## Error analysis
 <img width="679" height="323" alt="image" src="https://github.com/user-attachments/assets/e03d046b-7659-40f5-85c6-450d225632d1" />
+<img width="225" height="209" alt="image" src="https://github.com/user-attachments/assets/144378fa-282f-40fa-9ef2-1f32fbf0a6d6" />
 
 
 ## Reflections
